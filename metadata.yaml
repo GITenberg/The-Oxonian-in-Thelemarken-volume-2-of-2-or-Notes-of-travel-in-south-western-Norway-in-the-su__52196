@@ -1,0 +1,27 @@
+_repo: The-Oxonian-in-Thelemarken-volume-2-of-2-or-Notes-of-travel-in-south-western-Norway-in-the-su__52196
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Metcalfe, Frederick
+    birthdate: 1815
+    deathdate: 1885
+    gutenberg_agent_id: '46720'
+    url: http://www.gutenberg.org/2009/agents/46720
+description: ''
+gutenberg_issued: '2016-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52196'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DL'
+- !lcsh 'Folklore -- Norway'
+- !lcsh 'Norway -- Description and travel'
+- GITenberg
+title: "The Oxonian in Thelemarken, volume 2 (of 2)\r\nor, Notes of travel in south-western\
+  \ Norway in the summers of 1856 and 1857. With glances at the legendary lore of\
+  \ that district."
+url: http://www.gutenberg.org/ebooks/52196
